@@ -22,17 +22,15 @@
 
 ## 🧠 About Me
 
-```python
-divine = {
-    "name"      : "Divine Nicholas-Omoregbe",
-    "role"      : "Data Scientist",
-    "education" : "MSc Big Data Analytics @ Sheffield Hallam (Distinction)",
-    "focus"     : ["Machine Learning", "Explainable AI", "Data Engineering"],
-    "languages" : ["Python", "R", "SQL", "JavaScript"],
-    "currently" : "Research Data Management Assessor @ Youth Advantage UK",
-    "motto"     : "Data tells stories — I make sure they're heard."
-}
-```
+👋 Hi, I'm **Divine Nicholas-Omoregbe** — a Data Scientist based in Sheffield, UK.
+
+| | |
+|---|---|
+| 🎓 **Education** | MSc Big Data Analytics @ Sheffield Hallam *(Distinction)* |
+| 💼 **Currently** | Research Data Management Assessor @ Youth Advantage UK |
+| 🔍 **Focus** | Machine Learning · Explainable AI · Data Engineering |
+| 💻 **Languages** | Python · R · SQL · JavaScript |
+| 💬 **Motto** | *"Data tells stories — I make sure they're heard."* |
 
 An analytical, results-driven Data Scientist with expertise in **machine learning**, **data engineering**, and **explainable AI**. I build systems that don't just predict — they *explain*. From ETL pipelines processing 10M+ records to deployed ML apps, I bridge the gap between complex data and actionable decisions.
 
