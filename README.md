@@ -179,9 +179,9 @@ Content-based filtering engine achieving **90% feature similarity accuracy** usi
 ## 💼 Experience Snapshot
 
 ```
-🔬 Research Data Management Assessor  →  Youth Advantage UK           (2025–Present)
-📊 HR Data Analyst                    →  Dreammaker Hub Consultancy   (Jul–Dec 2024)
-💻 Data Analyst (Intern)              →  Networks Operations Centre   (Mar–Sep 2022)
+🔬 Research Data Management Assessor  →  Youth Advantage UK           
+📊 Data Analyst                    →  Dreammaker Hub Consultancy   
+💻 Data Analyst (Intern)              →  Networks Operations Centre   
 ```
 
 ---
