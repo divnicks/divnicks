@@ -1,5 +1,17 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divine%20Nicholas-Omoregbe&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Storyteller&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+
+<img src="https://raw.githubusercontent.com/divnicks/divnicks/main/ec556de1-d7c0-47bb-85bb-c1eaa296822a.jpg" width="180" style="border-radius: 50%; border: 3px solid #A78BFA; margin-top: -50px; position: relative;" alt="Divine Nicholas-Omoregbe" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+explainable+AI+for+real+impact;MSc+Big+Data+Analytics+%E2%80%94" alt="Typing SVG" />
+</a>
+
+<br/>
+
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divine%20Nicholas-Omoregbe&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Storyteller&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
