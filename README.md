@@ -7,7 +7,8 @@
   <img src="ec556de1-d7c0-47bb-85bb-c1eaa296822a.png" 
        alt="Divine Nicholas-Omoregbe" 
        width="200" 
-       style="border-radius: 50%; border: 5px solid #A78BFA; display: block; margin: 0 auto;" />
+       height="200" 
+       style="border-radius: 50%; object-fit: cover; border: 5px solid #A78BFA; display: inline-block;" />
 </div>
 
 
