@@ -63,7 +63,7 @@ Explainable ML system detecting PM2.5 pollution events using UK DEFRA data. Comb
 
 Explainable CNN for COVID-19 X-ray classification with lung masking, bone suppression, and spatial attention metrics. Integrates NL explanations for clinical decision support.
 
-**→ Published preprint (DOI: 10.20944/preprints202602.1063.v1)**
+**→ Published preprint (DOI: 10.3390/electronics15071443)**
 
 </td>
 </tr>
