@@ -172,7 +172,7 @@ Content-based filtering engine achieving **90% feature similarity accuracy** usi
 
 > **Explainable Deep Learning for Thoracic Radiographic Diagnosis: A COVID-19 Case Study Toward Clinically Meaningful Evaluation**
 > 
-> 📄 [DOI: 10.20944/preprints202602.1063.v1](https://doi.org/10.20944/preprints202602.1063.v1)
+> 📄 [DOI: 10.3390/electronics15071443](https://doi.org/10.3390/electronics15071443)
 
 ---
 
