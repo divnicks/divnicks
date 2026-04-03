@@ -3,10 +3,11 @@
 <!-- Animated header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Divine%20Nicholas-Omoregbe&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Data%20Storyteller&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
-<img src="ec556de1-d7c0-47bb-85bb-c1eaa296822a.jpg" 
+<div align="center">
+  <img src="ec556de1-d7c0-47bb-85bb-c1eaa296822a.jpg" 
        width="180" 
-       style="border-radius: 50%; border: 4px solid #A78BFA; margin-top: -90px; position: relative; z-index: 1;" 
        alt="Divine Nicholas-Omoregbe" />
+</div>
 
 <br/>
 
