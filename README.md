@@ -6,6 +6,7 @@
 <div align="center">
   <img src="ec556de1-d7c0-47bb-85bb-c1eaa296822a.png" 
        width="180" 
+       style="border-radius: 50%; border: 4px solid #A78BFA; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); margin-top: -60px; position: relative;" 
        alt="Divine Nicholas-Omoregbe" />
 </div>
 
